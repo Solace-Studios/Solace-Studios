@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Solace-Studios
 - 👀 I’m interested in Jesus, His Church, You
-- 🌱 I’m currently learning Kotlin/Swift/React Native/Javascript/RIBs architecture/KMM
+- 🌱 I’m currently learning Kotlin/Swift/React Native/Javascript/RIBs architecture/KMM/Python
 - 💞️ I’m looking to collaborate on mobile development
 - 📫 How to reach me michael.manahan@solacestudios .org
 
